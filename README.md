@@ -1,5 +1,5 @@
-kuroBox
-=======
+kuroBox_FileTest
+================
 
 This is just a small test package for testing the file and filesystem parts
 of the kuroBox hardware.

@@ -72,7 +72,7 @@ endif
 #
 
 # Define project name here
-PROJECT = kb_FS
+PROJECT = kuroBox_FileTest
 
 # Imported source files and paths
 CHIBIOS = ../../chibios

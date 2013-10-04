@@ -1,6 +1,6 @@
 
-build/kb_FS.elf:     file format elf32-littlearm
-build/kb_FS.elf
+build/kuroBox_FileTest.elf:     file format elf32-littlearm
+build/kuroBox_FileTest.elf
 architecture: arm, flags 0x00000112:
 EXEC_P, HAS_SYMS, D_PAGED
 start address 0x08000a41
@@ -36,15 +36,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY, DEBUGGING
   9 .debug_line   00008f76  00000000  00000000  0003406d  2**0
                   CONTENTS, READONLY, DEBUGGING
- 10 .debug_str    00003e6e  00000000  00000000  0003cfe3  2**0
+ 10 .debug_str    00003e79  00000000  00000000  0003cfe3  2**0
                   CONTENTS, READONLY, DEBUGGING
- 11 .comment      00000070  00000000  00000000  00040e51  2**0
+ 11 .comment      00000070  00000000  00000000  00040e5c  2**0
                   CONTENTS, READONLY
- 12 .ARM.attributes 00000039  00000000  00000000  00040ec1  2**0
+ 12 .ARM.attributes 00000039  00000000  00000000  00040ecc  2**0
                   CONTENTS, READONLY
- 13 .debug_frame  00002e10  00000000  00000000  00040efc  2**2
+ 13 .debug_frame  00002e10  00000000  00000000  00040f08  2**2
                   CONTENTS, READONLY, DEBUGGING
- 14 .debug_loc    00003ebe  00000000  00000000  00043d0c  2**0
+ 14 .debug_loc    00003ebe  00000000  00000000  00043d18  2**0
                   CONTENTS, READONLY, DEBUGGING
 SYMBOL TABLE:
 08000000 l    d  startup	00000000 startup
